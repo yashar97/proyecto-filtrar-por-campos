@@ -8,7 +8,6 @@ const puertas = document.querySelector('#puertas');
 const transmision = document.querySelector('#transmision');
 const color = document.querySelector('#color');
 
-//creamos los años dinamicamente
 const max = new Date().getFullYear();
 const min = max - 12;
 
