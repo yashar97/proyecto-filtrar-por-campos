@@ -149,4 +149,3 @@ function filtrarColor(element) {
     return element;
 }
 
-console.log('logrado')
